@@ -1,0 +1,1 @@
+web: gunicorn task_two.wsgi --log-file -
